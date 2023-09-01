@@ -1,2 +1,2 @@
-# nuvara
-mover of data ⚡️
+# Nuvara
+The mover of data ⚡️
